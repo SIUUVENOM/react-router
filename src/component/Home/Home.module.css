@@ -1,0 +1,25 @@
+.bgColor{
+    background-color: #1abc9c;
+    height: 100vh;
+}
+
+.line{
+    width: 100%;
+    max-width: 100px;
+    height: 5px;
+    background-color: #fff;
+    border-radius: 1rem;
+    -webkit-border-radius: 1rem;
+    -moz-border-radius: 1rem;
+    -ms-border-radius: 1rem;
+    -o-border-radius: 1rem;
+    border-color: #2c3e50;
+}
+
+.starSvg{
+    width: 50px;
+}
+
+.font{
+    font-size: 1.25rem;
+}

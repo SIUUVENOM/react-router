@@ -1,0 +1,38 @@
+.bgColor {
+  background-color: #2c3e50;
+  color: #fff;
+}
+
+.navItem {
+  padding: 10px 30px !important;
+  transition: background-color 0.3s;
+  -webkit-transition: background-color 0.3s;
+  -moz-transition: background-color 0.3s;
+  -ms-transition: background-color 0.3s;
+  -o-transition: background-color 0.3s;
+    border-radius: 15px !important;
+  -webkit-border-radius: 15px !important;
+  -moz-border-radius: 15px !important;
+  -ms-border-radius: 15px !important;
+  -o-border-radius: 15px !important;
+}
+.navItem:hover {
+  background-color: #1abc9c;
+
+}
+
+
+.menuColor{
+  background-color: #1abc9c !important;
+  color: #fff !important;
+  box-shadow: none !important;
+}
+
+.menuColor:focus{
+  outline: 1px dotted !important;
+    outline: 5px auto -webkit-focus-ring-color !important;
+}
+
+.white{
+  color: #fff !important;
+}
